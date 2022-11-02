@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gayathri</h1>
-<h3 align="center">A passionate Data Analytics</h3>
+<h3 align="center">A passionate Java Full Stack developer</h3>
 
-- 🌱 I’m currently learning **Java fFull Stack developer**
+- 🌱 I’m currently learning **Java Full Stack developer**
 
 - 💬 Ask me about **MYSQL & SQL related stuff...**
 
